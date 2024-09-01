@@ -1,0 +1,4 @@
+.paints__main {
+  margin-top: calc(var(--index) * 3.9);
+  background-color: black;
+}
